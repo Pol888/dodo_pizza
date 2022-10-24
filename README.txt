@@ -1,0 +1,1 @@
+Adds random 4 types of pizza to the cart (https://dodopizza.ru )
